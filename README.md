@@ -2,7 +2,7 @@
 
 ## Aprendizagem Baysiana
 
-Este projeto utiliza uma base de dados de score de crédito financeiro, tendo por objetivo aplicare o algoritmo de Naive Bayes na base, visando trazer previsões do score de crédito e publicar os resultados no GitHub.
+Este projeto utiliza uma base de dados de score de crédito financeiro, tendo por objetivo aplicar o algoritmo de Naive Bayes na base, visando trazer previsões do score de crédito e publicar os resultados no GitHub.
 
 ## 📂 Arquivo de Dados
 Os dados estão armazenados em arquivos CSV e devem ser carregados para análise.
